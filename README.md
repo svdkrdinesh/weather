@@ -183,9 +183,9 @@ npm install
    npm run deploy
    ```
 
-### ✅ Vercel / Netlify
+### ✅ Netlify
 
-Simply import the repo and deploy — both platforms auto-detect **Vite + React** apps.
+ !(https://projectweather56.netlify.app/)
 
 ---
 
@@ -199,8 +199,8 @@ Simply import the repo and deploy — both platforms auto-detect **Vite + React*
 
 **👤 Dinesh**
 🚀 Frontend Developer | React.js | Tailwind CSS | API Integration
-📧 [your.email@example.com](mailto:your.email@example.com)
-🌐 [GitHub Profile](https://github.com/your-username)
+📧 [svdkr8374@gmail.com]
+🌐 [svdkrdinesh]
 
 ---
 
